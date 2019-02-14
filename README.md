@@ -1,5 +1,5 @@
-# Break-system
-Closed loop system of the break dynamics of the Carla simulator.
+# Brake-system
+Closed loop system of the brake dynamics of the Carla simulator.
 
 
 The .slx files are the simulink files containing the neural network blocks. 
