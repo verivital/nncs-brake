@@ -6,6 +6,8 @@ The .slx files are the simulink files containing the neural network blocks.
 
 Actormodel corresponds to the controller and CarlaDynamicsModel corresponds to the plant.
 
+RL_CARLA_BRAKE_SYSTEM corresponds to the closed loop simulation.
+
 The mat files correspond to the network's information in MATLAB.
 
 actormodel.mat corresponds to the controller's info with the required format to use the nnv tool.
